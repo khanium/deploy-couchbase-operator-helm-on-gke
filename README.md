@@ -3,5 +3,5 @@ Note: This project has been moved to [https://github.com/couchbaselabs/cboperato
 # Deployment guideline of Couchbase Operator in GKE
 [https://github.com/couchbaselabs/cboperator-hol/tree/master/gke/cb-operator-guide](https://github.com/couchbaselabs/cboperator-hol/tree/master/gke/cb-operator-guide)
 
-# Deployment guide of couchbase Operator using Helm charts in GKE
+# Deployment guide of Couchbase Operator using Helm charts in GKE
 [https://github.com/couchbaselabs/cboperator-hol/tree/master/gke/helm-guide](https://github.com/couchbaselabs/cboperator-hol/tree/master/gke/helm-guide)
